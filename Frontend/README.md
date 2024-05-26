@@ -1,6 +1,6 @@
 # Introduction
 
-Introducing my fitness app project, built with React - a versatile tool that adapts to your unique fitness journey. With a focus on user-driven customization, this app takes your weight, height, and age to calculate customized macronutrient goals for weight gain or loss. It goes beyond creating personalized exercise plans based on the equipment you have. The heart of the app lies in its intuitive ability to add, view, update and delete workouts – giving users seamless customization of their fitness routine.
+This is first fitness app project. This app takes your weight, height, and age to calculate customized macronutrient goals for weight gain or loss. The app will create meals plans based on your informations. I hope this app becomes your most used tool on your weight loss or weight gain journey.
 
 ## Available Scripts
 
