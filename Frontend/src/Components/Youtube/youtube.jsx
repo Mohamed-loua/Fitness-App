@@ -7,7 +7,7 @@ const FitnessVideos = ({ term, isOpen }) => {
 
   useEffect(() => {
     // Replace 'YOUR_API_KEY' with your actual YouTube API key
-    const API_KEY = 'AIzaSyCApvdi1Nfxh1WPCoQ2UlKcl0pOfX_mIto  ';
+    const API_KEY = '';
     const maxResults = 15; // Set the desired number of results
 
     const fetchData = async () => {
