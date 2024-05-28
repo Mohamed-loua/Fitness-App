@@ -35,7 +35,7 @@ const Clock = ({ isOpen }) => {
               <span class="bottom-key-1"></span>
               <span class="bottom-key-2"></span>
               </a>
-              <Link to="https://culinarydelights.vercel.app/" className='moon' target='_blank'> <img src={VeganFoodSvg} alt="Vegan Food" className="vegan-food-svg " /></Link>
+              <Link to="https://spoonacular.com/food-api" className='moon' target='_blank'> <img src={VeganFoodSvg} alt="Vegan Food" className="vegan-food-svg " /></Link>
         </div>
         <div class="card-day">
             <p class="time-text2"><span>Muscle Progress</span><span class="time-sub-text"></span></p>

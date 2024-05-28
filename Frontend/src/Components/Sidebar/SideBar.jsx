@@ -104,11 +104,6 @@ const redirectToExternalSite = () => {
             </button>
           </div>
 
-          <h1 class="sidebar__title">
-            <span className="icon-set" onClick={redirectToExternalSite}>
-              <GearWideConnected />
-            </span>
-          </h1>
 
           <div class="sidebar__list">
             <button className="buttn">
