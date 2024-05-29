@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import './SideBar.css';
-import {GearWideConnected} from 'react-bootstrap-icons'
 import { Collection } from 'react-bootstrap-icons';
 import { useNavigate } from 'react-router-dom';
 import Cookies from "js-cookie";
@@ -29,9 +28,6 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
      toggleSidebar(); // Toggle the sidebar state in the parent component
    };
    const navigate=useNavigate();
-const redirectToExternalSite = () => {
-   window.open("https://powertoolsrental.vercel.app/", '_blank');
- };
   return (
     <div>
       <div className={`open-btn-container ${isOpen ? "hidden" : ""}`}>

@@ -139,7 +139,7 @@ const Progress = ({isOpen}) => {
           <details>
     <summary>Additional Values</summary>
     <label>
-      Weiner size:
+      Hand size:
       <input
         type="text"
         name="additionalValue"
